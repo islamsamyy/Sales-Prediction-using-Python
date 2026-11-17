@@ -1,2 +1,9 @@
-# Sales-Prediction-using-Python
-Successfully completed a sales prediction project for Codealfa as part of an assigned task. Developed a Python-based model to forecast sales trends using historical data, achieving 95% accuracy with the Gradient Boosting Regressor and 86% accuracy with the Linear Regression algorithm. The project involved data preprocessing, visualization, and predictive modeling using libraries such as scikit-learn, pandas, matplotlib, and numpy. This accomplishment demonstrates technical proficiency and the ability to deliver actionable insights for business needs.
+﻿# Sales Prediction Using Python (Sales-Prediction-using-Python)
+
+A regression-based machine learning project (Sales Prediction using Python.ipynb) predicting product sales from advertising spend channels using Advertising.csv.
+
+## Project Structure
+``text
+├── Sales Prediction using Python.ipynb  # Regression modeling & evaluation
+└── Advertising.csv                      # Advertising spend vs. sales dataset
+``
